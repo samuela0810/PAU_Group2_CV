@@ -94,3 +94,5 @@ show_histograms(image, new_image)
 # Wait for key press
 cv.waitKey(0)
 cv.destroyAllWindows()
+
+# To run the code, type "python covgroas.py --input the_path_of_the_image_you_want_to_modify.jpg(jpeg,png,...)" in the terminal
