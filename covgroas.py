@@ -96,3 +96,4 @@ cv.waitKey(0)
 cv.destroyAllWindows()
 
 # To run the code, type "python covgroas.py --input the_path_of_the_image_you_want_to_modify.jpg(jpeg,png,...)" in the terminal
+# Also save the requirements file and this one in the same folder
